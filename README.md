@@ -4,6 +4,7 @@ Implementacion del algoritmo **minimax** (con optimizacion **alfa-beta**) aplica
 del gato o tres en linea (3x3), de modo que una persona pueda jugar contra la computadora.
 
 Todo el codigo esta en un solo Jupyter Notebook: **[`minimax_gato.ipynb`](minimax_gato.ipynb)**
+O otra version mas basica en Colab: **[`minimax_gatob.ipynb`](minimax_gatob.ipynb)**
 
 ---
 
